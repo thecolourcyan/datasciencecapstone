@@ -1,3 +1,3 @@
 # datasciencecapstone
-Data Science Capstone for the IBM Coursera Course
-These are my assignments for the above-mentioned course. Thank you!
+
+These are my assignments for the Applied Data Science Capstone course under IBM and Coursera. Thank you!
